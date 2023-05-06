@@ -6,6 +6,6 @@ We are a team of aspiring hardworking engineers with a big vision. We provide va
 
 
 
-**[Terms and condiions]([Terms and conditions - Google Docs](https://docs.google.com/document/d/157NM49HsKUiQU6vQoYlsl5r_P5sz7CWtxakNZp8nou4/edit?usp=sharing))**
+**[Terms and condiions](https://docs.google.com/document/d/157NM49HsKUiQU6vQoYlsl5r_P5sz7CWtxakNZp8nou4/edit?usp=sharing)**
 
 **[Requirements](https://docs.google.com/document/d/11UjbJjLm6rpTf37Y5unkSaHvzdTpfL4XJ51xZmlGPWc/edit?usp=sharing)**
